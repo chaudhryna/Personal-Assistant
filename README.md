@@ -8,3 +8,5 @@ https://repl.it/@chaudhryna/110-L12-Soft-ClassCodePersonalAssistant-Final
 The project uses Remi for the GUI and reads/writes to an external JSON file.
 
 
+![Image of Personal-Assistant-App]
+(https://chaudhryna.github.com/Personal-Assistant-App.png)
